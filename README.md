@@ -27,10 +27,11 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 │   │   |   ├── 6_layer_output.csv  # example file
 │   │   |   ├── 7_layer_output.csv  # example file 
 │   │   |   ├── 8_layer_output.csv  # example file
-│   │   |   └── 9_layer_output.csv  # example file
-│   │   ├── Upload-2_ID/             # This is where the parsed file for second uploaded file
-│   │   ├── Upload-3_ID/             # This is where the parsed file for third uploaded file
-│   │   └── Upload-4_ID/            # and so on, the pattern goes infinite
+│   │   |   ├── 9_layer_output.csv  # example file
+│   │   |   └──  visualize_results.py  # 76 plot maker in one tab
+│   │   ├── Upload-2_ID/               # This is where the parsed file for second uploaded file
+│   │   ├── Upload-3_ID/               # This is where the parsed file for third uploaded file
+│   │   └── Upload-4_ID/               # and so on, the pattern goes infinite
 
 ```
 
@@ -47,5 +48,14 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 
 ![file](https://github.com/algorembrant/MTPRS/blob/main/newplot.png)
 
-
+## Citation
+```
+@misc{MTParsee,
+  author = {Albeos, Rembrant},
+  title = {{MTParsee}},
+  year = {2026},
+  url = {https://github.com/algorembrant/MTParsee},
+  note = {GitHub repository}
+}
+```
 
