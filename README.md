@@ -33,3 +33,18 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 │       └── Upload-4_ID/            # and so on, the pattern goes infinite
 
 ```
+
+
+## Very simple steps
+
+- install python reqquirements<br>
+- run watchdog.py once<br>
+- drag-n-drap MT5-trade-report xlsx file into [2] folder
+- let the bot do the rest
+
+
+## All 76 Trading metrics
+
+
+
+
