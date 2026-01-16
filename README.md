@@ -60,7 +60,7 @@ The MT5 Trade Report only provides one rolling metric (as shown above), whereas 
 
 ## All 76 Trading metrics
 
-![file](https://github.com/algorembrant/MTPRS/blob/main/newplot.png)
+![file](https://github.com/algorembrant/MTParsee/blob/main/use%20this%20for%20lineschart%20%26%20y-distribution%20graphs/Trade%20Report_graphs.png)
 
 ## Citation
 
