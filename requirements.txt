@@ -1,9 +1,10 @@
 pandas 
 numpy
 openpyxl
-pathlib
-os
 plotly
-scip
+scipy
 watchdog
 kaleido
+fastapi
+uvicorn
+python-multipart
